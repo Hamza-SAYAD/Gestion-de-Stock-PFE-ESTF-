@@ -1,0 +1,227 @@
+#bodyy {
+	background: url('../images/testimonials-bg.JPG') ;
+	
+}
+#accordion1 {
+	color: lightgray;
+	font-family:verdana;
+}
+
+UL{
+	color: lightgray;
+	font-family:verdana;
+}
+
+body
+{
+	padding-top:90px;
+	background: url('../images/aaa.JPG') ;
+	
+}
+
+[class*="col"] 
+{
+	margin-bottom: 20px;
+}
+
+.well
+{
+	background-color: #CCC;
+	padding: 20px;
+}
+.well1
+{
+	background-color: LightSteelBlue   ;
+	padding: 20px;
+}
+.interdit
+{
+	color:red;
+}
+.well2
+{
+	background-color: WhiteSmoke ;
+	padding: 20px;
+}
+.menu
+{
+	line-height: 0%;
+}
+.well3
+{
+	background-color:LightSlateGray ;
+	padding: 20px;
+}
+.titre1
+{
+font-family: 'Times New Roman', Times, sans-serif;
+line-height: 1em;
+color: #abaab5;
+font-weight:bold;
+font-style:italic;
+font-size: 50px;
+text-shadow:0px 0px 0 rgb(115,114,125),1px 0px 0 rgb(102,101,112),2px 0px 0 rgb(90,89,100),3px 0px 0 rgb(78,77,88),4px 0px 0 rgb(65,64,75),5px 0px 0 rgb(53,52,63),6px 0px 0 rgb(40,39,50),7px 0px 0 rgb(28,27,38), 8px 0px 0 rgb(16,15,26),9px 0px 8px rgba(0,0,0,0.55),9px 0px 1px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,.2);
+}
+#logo
+{
+font-family: 'Times New Roman', Times, sans-serif;
+line-height: 2em;
+color: orange;
+font-weight:bold;
+font-style:italic;
+font-size: 14px;
+
+background-color: #191970;
+padding-left: 65px;
+padding-right: 65px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+
+}
+
+
+.well4
+{
+	background-color:LightCyan    ;
+	padding: 20px;
+}
+.well5
+{
+	background-color:AliceBlue    ;
+	padding: 20px;
+}
+.ligneCommande
+{
+	color:black;
+	font-size: 20px;
+
+}
+.well10
+{
+	background-color:LightGray;
+	padding: 20px;
+}
+
+#accordion6 {
+	
+
+
+background-color: #191970 ;	
+margin-bottom: 50px;
+margin-top: 60px;
+
+padding-top:2px;
+border-radius:  20px;
+
+margin-left: 115px;
+
+
+color: #FF8C00;
+font-family : verdana;  
+text-shadow:0px 0px 0 rgb(115,114,125),1px 0px 0 rgb(102,101,112),2px 0px 0 rgb(90,89,100),3px 0px 0 rgb(78,77,88),4px 0px 0 rgb(65,64,75),5px 0px 0 rgb(53,52,63),6px 0px 0 rgb(40,39,50),7px 0px 0 rgb(28,27,38), 8px 0px 0 rgb(16,15,26),9px 0px 8px rgba(0,0,0,0.55),9px 0px 1px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,.2) ;
+
+}
+
+
+#lo {
+	
+	background-color: #191970;
+	color: #FF8C00;
+	font-family : verdana;  
+	font-size: 14px;
+	text-shadow:0px 0px 0 rgb(115,114,125),1px 0px 0 rgb(102,101,112),2px 0px 0 rgb(90,89,100),3px 0px 0 rgb(78,77,88),4px 0px 0 rgb(65,64,75),5px 0px 0 rgb(53,52,63),6px 0px 0 rgb(40,39,50),7px 0px 0 rgb(28,27,38), 8px 0px 0 rgb(16,15,26),9px 0px 8px rgba(0,0,0,0.55),9px 0px 1px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,.2);
+}
+
+#nav{
+	margin-bottom: 50px;
+    margin-top: 60px;
+	background-color: #191970;
+	padding-bottom:2px;
+	font-family : verdana;  
+	color: #FF8C00;
+	
+	
+
+
+}
+#nav h4{
+	text-shadow:0px 0px 0 rgb(115,114,125),1px 0px 0 rgb(102,101,112),2px 0px 0 rgb(90,89,100),3px 0px 0 rgb(78,77,88),4px 0px 0 rgb(65,64,75),5px 0px 0 rgb(53,52,63),6px 0px 0 rgb(40,39,50),7px 0px 0 rgb(28,27,38), 8px 0px 0 rgb(16,15,26),9px 0px 8px rgba(0,0,0,0.55),9px 0px 1px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,.2);
+	
+
+
+}
+
+#nav a {
+	
+	
+	
+	font-family : verdana;  
+	color: #abaab5;
+	
+	
+
+}
+
+#pied {
+	font-size: 14px;
+	background-color: #191970;
+	color: #FF8C00;
+	padding-top: 15px;
+	margin-right: 87px;
+	font-family : verdana;  
+	
+	
+}
+#pieds {
+	
+	font-family : verdana;  
+	margin-left: 10px;
+	
+	font-size: 14px;
+	
+	color: #abaab5;
+	
+	
+	
+}
+
+#pie {
+	font-size: 14px;
+	background-color: #191970;
+	color: #FF8C00;
+	padding-top: 15px;
+	margin-right: 65px;
+	font-family : verdana;  
+	
+	text-shadow:0px 0px 0 rgb(115,114,125),1px 0px 0 rgb(102,101,112),2px 0px 0 rgb(90,89,100),3px 0px 0 rgb(78,77,88),4px 0px 0 rgb(65,64,75),5px 0px 0 rgb(53,52,63),6px 0px 0 rgb(40,39,50),7px 0px 0 rgb(28,27,38), 8px 0px 0 rgb(16,15,26),9px 0px 8px rgba(0,0,0,0.55),9px 0px 1px rgba(0,0,0,0.5),0px 0px 8px rgba(0,0,0,.2);
+}
+
+
+.men {
+	
+
+
+margin-right: 265px;
+margin-left: 1px;
+
+
+
+}
+#cols{
+	
+	margin-right: 40px;
+	margin-left: 15px;
+}
+
+
+#acceuil{
+	margin-left: 24px;
+}
+
+p {
+	color: white;
+	font-size: 4px;
+	font-family:verdana;
+}
+

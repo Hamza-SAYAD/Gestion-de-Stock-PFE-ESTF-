@@ -1,0 +1,16 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #87cefa;
+}
+#tbfich td,th{
+	background-color: white;
+}
+#tbfich{
+	width: 50%;
+	margin-bottom: 30px;
+}
+.bouton{
+	margin-top:10px;
+}

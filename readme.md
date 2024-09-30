@@ -38,15 +38,15 @@ This web application streamlines inventory management by incorporating a stock a
 
 **Technology Stack**
 
-* **Frontend:** [Choose a frontend framework like React, Angular, or Vue.js]
+* **Frontend:** HTML, CSS, JavaScript
 
-* **Backend:** [Choose a backend framework like Django, Node.js, or Spring Boot]
+* **Backend:** PHP
 
-* **Database:** [Choose a database like PostgreSQL, MySQL, or MongoDB]
+* **Database:** MySQL
 
-**Deployment**
 
-* **Cloud:** Deploy the application on a cloud platform like AWS, Azure, or Google Cloud Platform for scalability and accessibility.
+
+
 
 **Installation and Setup**
 
